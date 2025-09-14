@@ -40,6 +40,7 @@ code .
 ## 4. Edit CONTRIBUTORS.md
 
 Navigate into the cloned folder and open the `CONTRIBUTORS.md` file. Add your details as instructed.
+
 <img src="assets/screenshot/Edit-Contribution.png" alt="Git Bash clone command" width="500">
 
 
@@ -57,6 +58,7 @@ git push origin main
 ## 6. Create a Pull Request
 
 Go to your forked repository on GitHub. Click the **Contribute** button, then select **Open pull request**.
+
 <img src="assets/screenshot/pr.png" alt="Create pull request" width="500">
 
 
